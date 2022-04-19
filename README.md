@@ -30,6 +30,9 @@ Files will be saved in given folder, as shown below
 
 
 Hope it will help you to save your work or any other importent .ps1 file.
+
+There is one good blog related to script file conversion by @robert is : https://blog.senktas.net/2020/02/07/how-to-convert-spe-scripts-to-the-file-system/
+
 Happy coding !!!
 
 Please comment your feedback or any improvement needed.
