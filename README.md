@@ -1,6 +1,6 @@
 # Sitecore-Powershell-Script-Backup-Utility
 
-A utility which will add a button in Developer tab to take scripts backup and on its click it will open interactive dialogue for this.
+Once you install package(Powershell Script Ba.zip)ckup Related Items Package.zip), it will add a button in Developer tab to take scripts backup and on its click it will open interactive dialogue for this.
 ![image](https://user-images.githubusercontent.com/63503137/163937336-ccc72084-f51a-48a8-b212-df7ffa817545.png)
 
 ## 1. Script folder selection dialogue
